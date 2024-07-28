@@ -1,0 +1,27 @@
+{
+    "aboutMe":{
+        "aboutMe": "Sobre mim:",
+        "skills": "Habilidades:",
+        "name": "Nome",
+        "age": "Idade",
+        "nationality": "Nacionalidade",
+        "nationality_Brazilian": "Brasileira",
+        "aboutMe_part1": "Olá, Meu nome é Ricardo Vilain de Melo. Sou originalmente de Florianópolis/SC, mas atualmente moro em Jaragua do Sul/SC. Eng. Mecânico com metrado e doutorado em Ciência e Eng de Materiais, sempre tive uma paixão por programação, lógica e aprender coisas novas. Então decidi criar este protifólio para mostrar os diversos projetos que me envolvo nessa jornada de muitos aprendizados, com a finalidade de abrir as portas para novos projetos e crescimento pessoal.",
+        "aboutMe_part2": "Embora programação tenha sido um hobbie por muitos anos, minha jornada no mundo da TI iniciou oficialmente em 2021 após terminar meu doutorado. Nesse ano a pandemia de Covid estava em alta, mas alguns setores estavam voltando ao presencial e decidi aproveitar o momento para me canditar a uma vaga de engenharia, mas com foco em desenvolvimento de sistema na WEG/SA.",
+        "aboutMe_WEG": "Na WEG, minhas atividades me deram conhecimentos em C#/Java/TypeScript/API SolidWorks/Python. Se quiser com mais detalhes, clique aqui.",
+   
+        "academicEducation": "Formação Acadêmica",
+        "education":{
+            "graduation":"Graduação: Engenharia Mecânica",
+            "graduationDescription":"Me formei em Engenharia Mecânica em 2010 na Universidade Federal de Santa Catarina (UFSC), uma das melhores universidades de engenharia do Brasil e nota máxima no MEC.",
+       
+            "master":"Mestrado: Ciência e Engenharia de Materiais",
+            "masterDescription1":"Realizei meu mestrado em Ciência e Engenharia de Materiais entre os anos de 2012 e 2015 na Universidade Federal de Santa Catarina (UFSC) e onde obtive o concento A.",
+            "masterDescription2":"Nesse projeto estudei os efeitos da deformação mecânica (forjamento) na precipitação de intermetálicos em aços Maraging C300 com alto teor de Ti. Durante o mestrado eu me aprofundei em temas como: cinética de precipitação, difusão atômica, conformação mecânica, densidade de discordâncias, envelhecimento de materiais e o efeito de todos esses nas propriedades químicas e mêcanica de materiais metálicos. PAra isso foram realizadas análises por microscopia ótica, microscopia eletronica de varredura, microscopia eletrônica de transmissão, microdureza, dilatometria e magnetometria de amostra vibrante.",
+        
+            "phd":"Doutorado: Ciência e Engenharia de Materiais",
+            "phdDescription1":"Realizei meu doutorado em Ciência e Engenharia de Materiais entre os anos de xxx e xxx como continuidade do trabalho de mestrado na Universidade Federal de Santa Catarina (UFSC) e onde também obtive o concento A.",
+            "phdDescription2":"Nesse projeto continuei estudando os efeitos da deformação mecânica (forjamento e laminação) na precipitação de intermetálicos em aços Maraging C350 com alto teor de Ti. Durante o mestrado eu me aprofundei nos mesmos temas do mestrado com foco especial em difração de Raio-X, microspopia de transmissão que me possibilitaram realizar todos os cálculos de distâncias atômicas e por fim quantificar as fases presentes nos materiais e suas cinéticas de formação em diferentes temperaturas."
+        } 
+    }  
+}
